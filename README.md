@@ -17,6 +17,7 @@
 
 - ### Local environment:
   ```bash
+  git clone https://github.com/Amit-Hemo/ts-starter-swc-prettier-eslint-husky-docker-express-jest.git
   npm install
   npm run build
   npm start
