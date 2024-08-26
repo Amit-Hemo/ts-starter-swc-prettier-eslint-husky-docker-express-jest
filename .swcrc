@@ -12,5 +12,6 @@
   "module": {
     "type": "commonjs"
   },
+  "exclude": ["node_modules"],
   "sourceMaps": "inline"
 }
